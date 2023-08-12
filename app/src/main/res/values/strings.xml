@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="str_hint_note">Add Note</string>
+    <string name="str_add">Add</string>
+    <string name="ste_delete">Delete</string>
+    <string name="str_sample_note">This is sample note</string>
+    <string name="str_sample_date">Sun Jul 16 17:29:46 GMT +5:30 2023</string>
+</resources>
